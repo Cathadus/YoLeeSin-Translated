@@ -1,4 +1,4 @@
---YoLeeSin-Translated
+-- YoLeeSin-Translated
 -- By Cathadus and Acide
 
 local version = "1.43"
