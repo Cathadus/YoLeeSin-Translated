@@ -1,5 +1,4 @@
 --YoLeeSin-Translated
-===================
 -- By Cathadus and Acide 
 
 _G.AutoUpdateYO = false
